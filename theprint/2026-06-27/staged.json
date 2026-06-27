@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-27",
+  "caption": "\ud83d\udcca Inflation odds: 64% \u2014 -2 pts this week.\n\n\ud83d\udcca The Print \u00b7 No. 6 \u2014 Market recap, Fri, Jun 26\n\nS&P 500: 7,354.02 (-0.05%)\nNasdaq: 25,297.62 (-0.24%)\nDow Jones: 51,876.11 (-0.09%)\nSectors: Health Care led (+3.03%), Technology lagged (-1.87%).\n\nBitcoin +0.44% \u00b7 Ethereum +0.22%\n\nBiggest odds move: cpi tops 3.7% (yoy) now 64% (-2 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to whoever in your group chat won't stop talking about inflation.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jun 26: S&P 500 -0.1%, Nasdaq -0.2%, Dow Jones -0.1%, plus Bitcoin +0.4% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jun 26: Health Care led +3.0%, Technology lagged -1.9%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jun 27: CPI tops 3.7% (YoY) 64%, Core CPI tops 2.4% (YoY) 50%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-06-27/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-06-27/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-06-27/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-06-27/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-06-27/cover.png",
+  "generated_at": "2026-06-27T11:08:59+00:00"
+}
