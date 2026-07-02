@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-02",
+  "caption": "\ud83d\udcca Inflation odds: 71% \u2014 +3 pts this week.\n\n\ud83d\udcca The Print \u00b7 No. 11 \u2014 Market recap, Wed, Jul 1\n\nS&P 500: 7,483.23 (-0.22%)\nNasdaq: 26,040.03 (-0.66%)\nDow Jones: 52,305.24 (-0.03%)\nSectors: Communication led (+2.44%), Technology lagged (-2.57%).\n\nBitcoin +2.05% \u00b7 Ethereum +2.28%\n\nBiggest odds move: cpi tops 3.7% (yoy) now 71% (+3 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udcc5 In market history \u2014 The Asian Crisis Begins, July 2, 1997.\n\n\ud83d\udce9 Send this to whoever in your group chat won't stop talking about inflation.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "history",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 1: S&P 500 -0.2%, Nasdaq -0.7%, Dow Jones -0.0%, plus Bitcoin +2.0% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 1: Communication led +2.4%, Technology lagged -2.6%, across 11 S&P 500 sectors.",
+    "history": "The Print \u2014 This Day in History: The Asian Crisis Begins, July 2, 1997.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 2: CPI tops 3.7% (YoY) 71%, Bitcoin tops $65k this month 55%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/03-history.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/04-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-02/cover.png",
+  "generated_at": "2026-07-02T11:09:43+00:00"
+}
