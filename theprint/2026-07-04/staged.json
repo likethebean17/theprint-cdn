@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-04",
+  "caption": "\ud83d\udcca Inflation odds: 74% \u2014 +2 pts this week.\n\n\ud83e\ude99 The Print \u00b7 No. 14 \u2014 Weekend Edition, Sat, Jul 4\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin -0.14% \u00b7 Ethereum -0.01%\n\nWhat prediction markets are pricing:\n\u2022 90% \u2014 Core CPI tops 2.6% (YoY)\n\u2022 74% (+2 vs. yest.) \u2014 CPI tops 3.7% (YoY)\n\u2022 42% \u2014 Bitcoin tops $68k this month\n\nLast stock close (Thu, Jul 2): S&P 500 +0.00%, Nasdaq -0.80%, Dow Jones +1.14%. Back Monday.\n\n\ud83d\udce9 Send this to whoever in your group chat won't stop talking about inflation.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 Weekend Edition, Jul 4. Bitcoin $62,456 (-0.1%), Ethereum -0.0%, plus market-implied odds.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 4: Core CPI tops 2.6% (YoY) 90%, CPI tops 3.7% (YoY) 74%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-04/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-04/02-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-04/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-04/cover.png",
+  "generated_at": "2026-07-04T11:09:24+00:00"
+}
