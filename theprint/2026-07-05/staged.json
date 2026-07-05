@@ -1,12 +1,12 @@
 {
   "date": "2026-07-05",
-  "caption": "\ud83d\udcc8 Ethereum +0.1% \u2014 climbed while stocks were closed.\n\n\ud83e\ude99 The Print \u00b7 No. 15 \u2014 Weekend Edition, Sun, Jul 5\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin +0.10% \u00b7 Ethereum +0.12%\n\nWhat prediction markets are pricing:\n\u2022 90% \u2014 Core CPI tops 2.6% (YoY)\n\u2022 68% \u2014 Bitcoin tops $65k this month\n\u2022 52% \u2014 Unemployment tops 4.2%\n\nLast stock close (Thu, Jul 2): S&P 500 +0.00%, Nasdaq -0.80%, Dow Jones +1.14%. Back Monday.\n\n\ud83d\udce9 Send this to someone who wants the market in 30 seconds, not 30 tabs.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "caption": "\ud83d\udcc8 Bitcoin +0.0% \u2014 climbed while stocks were closed.\n\n\ud83e\ude99 The Print \u00b7 No. 15 \u2014 Weekend Edition, Sun, Jul 5\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin +0.02% \u00b7 Ethereum +0.03%\n\nWhat prediction markets are pricing:\n\u2022 90% \u2014 Core CPI tops 2.6% (YoY)\n\u2022 68% \u2014 Bitcoin tops $65k this month\n\u2022 52% \u2014 Unemployment tops 4.2%\n\nLast stock close (Thu, Jul 2): S&P 500 +0.00%, Nasdaq -0.80%, Dow Jones +1.14%. Back Monday.\n\n\ud83d\udce9 Send this to someone who wants the market in 30 seconds, not 30 tabs.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
   "cards": [
     "recap",
     "odds"
   ],
   "alt": {
-    "recap": "The Print \u2014 Weekend Edition, Jul 5. Bitcoin $62,608 (+0.1%), Ethereum +0.1%, plus market-implied odds.",
+    "recap": "The Print \u2014 Weekend Edition, Jul 5. Bitcoin $62,555 (+0.0%), Ethereum +0.0%, plus market-implied odds.",
     "odds": "The Print market-implied odds from Kalshi, Jul 5: Core CPI tops 2.6% (YoY) 90%, Bitcoin tops $65k this month 68%, and more."
   },
   "image_urls": [
@@ -15,5 +15,5 @@
   ],
   "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-05/reel.mp4",
   "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-05/cover.png",
-  "generated_at": "2026-07-05T11:56:48+00:00"
+  "generated_at": "2026-07-05T12:06:52+00:00"
 }
