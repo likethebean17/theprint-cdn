@@ -1,13 +1,13 @@
 {
   "date": "2026-07-06",
-  "caption": "\ud83d\udcca Bitcoin odds: 46% \u2014 +6 pts this week.\n\n\ud83e\ude99 The Print \u00b7 No. 15 \u2014 Weekend Edition, Sun, Jul 5\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin +0.41% \u00b7 Ethereum +0.05%\n\nWhat prediction markets are pricing:\n\u2022 90% \u2014 Core CPI tops 2.6% (YoY)\n\u2022 55% (+3 vs. yest.) \u2014 Unemployment tops 4.2%\n\u2022 46% (+6 vs. yest.) \u2014 Bitcoin tops $68k this month\n\nLast stock close (Thu, Jul 2): S&P 500 +0.00%, Nasdaq -0.80%, Dow Jones +1.14%. Back Monday.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "caption": "\ud83d\udcca Unemployment odds: 55% \u2014 +3 pts vs. yesterday.\n\n\ud83e\ude99 The Print \u00b7 No. 16 \u2014 The Week Ahead, Mon, Jul 6\n\nMarkets open today \u2014 here's the board before the bell:\n\nBitcoin -1.24% \u00b7 Ethereum -0.88%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 90% \u2014 Core CPI tops 2.6% (YoY)\n\u2022 68% \u2014 Bitcoin tops $65k this month\n\u2022 55% (+3 vs. yest.) \u2014 Unemployment tops 4.2%\n\nLast close (Thu, Jul 2): S&P 500 +0.00%, Nasdaq -0.80%, Dow Jones +1.14%. Markets open 9:30am ET.\n\n\ud83d\udce9 Send this to someone who reads the jobs report like a box score.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
   "cards": [
     "recap",
     "odds"
   ],
   "alt": {
-    "recap": "The Print \u2014 Weekend Edition, Jul 5. Bitcoin $63,346 (+0.4%), Ethereum +0.1%, plus market-implied odds.",
-    "odds": "The Print market-implied odds from Kalshi, Jul 6: Core CPI tops 2.6% (YoY) 90%, Unemployment tops 4.2% 55%, and more."
+    "recap": "The Print \u2014 The Week Ahead, Jul 6. Markets open today. Bitcoin $62,762 (-1.2%), Ethereum -0.9%, plus market-implied odds.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 6: Core CPI tops 2.6% (YoY) 90%, Bitcoin tops $65k this month 68%, and more."
   },
   "image_urls": [
     "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-06/01-recap.png",
@@ -15,5 +15,7 @@
   ],
   "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-06/reel.mp4",
   "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-06/cover.png",
-  "generated_at": "2026-07-06T02:51:33+00:00"
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-06/story.png",
+  "story_poll": "Core CPI tops 2.6% (YoY)?",
+  "generated_at": "2026-07-06T11:09:35+00:00"
 }
