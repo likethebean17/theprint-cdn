@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-07",
+  "caption": "\ud83d\udcca Inflation odds: 24% \u2014 +2 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 16 \u2014 Market recap, Mon, Jul 6\n\nS&P 500: 7,537.43 (+0.72%)\nNasdaq: 26,121.16 (+1.12%)\nDow Jones: 53,055.91 (+0.29%)\nSectors: Technology led (+1.65%), Health Care lagged (-1.09%).\n\nBitcoin -1.35% \u00b7 Ethereum -1.33%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: cpi tops 3.8% (yoy) now 24% (+2 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to whoever in your group chat won't stop talking about inflation.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 6: S&P 500 +0.7%, Nasdaq +1.1%, Dow Jones +0.3%, plus Bitcoin -1.4% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 6: Technology led +1.6%, Health Care lagged -1.1%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 7: Unemployment tops 4.2% 56%, Bitcoin tops $68k this month 44%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-07/story.png",
+  "story_poll": "Unemployment tops 4.2%?",
+  "generated_at": "2026-07-07T11:09:54+00:00",
+  "reminders": [
+    "\ud83c\udf93 Explainer day (Tue/Thu/Sat) \u2014 dispatch Actions \u2192 \u201cThe Print \u2014 explainer reel\u201d. Next up: \u201cWhat the VIX measures\u201d."
+  ]
+}
