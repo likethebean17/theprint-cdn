@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-08",
+  "caption": "\ud83d\udcca Bitcoin odds: 36% \u2014 -8 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 17 \u2014 Market recap, Tue, Jul 7\n\nS&P 500: 7,503.85 (-0.45%)\nNasdaq: 25,818.69 (-1.16%)\nDow Jones: 52,925.15 (-0.25%)\nSectors: Energy led (+2.84%), Technology lagged (-2.39%).\n\nBitcoin -1.90% \u00b7 Ethereum -1.80%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 36% (-8 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 7: S&P 500 -0.5%, Nasdaq -1.2%, Dow Jones -0.2%, plus Bitcoin -1.9% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 7: Energy led +2.8%, Technology lagged -2.4%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 8: Core CPI tops 2.7% (YoY) 84%, Unemployment tops 4.2% 56%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-08/story.png",
+  "story_poll": "Core CPI tops 2.7% (YoY)?",
+  "generated_at": "2026-07-08T11:09:44+00:00"
+}
