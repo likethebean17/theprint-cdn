@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-09",
+  "caption": "\ud83d\udcca Bitcoin odds: 42% \u2014 +6 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 18 \u2014 Market recap, Wed, Jul 8\n\nS&P 500: 7,482.71 (-0.28%)\nNasdaq: 25,870.65 (+0.20%)\nDow Jones: 52,348.39 (-1.09%)\nSectors: Energy led (+1.76%), Materials lagged (-2.62%).\n\nBitcoin +0.76% \u00b7 Ethereum +0.12%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 42% (+6 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 8: S&P 500 -0.3%, Nasdaq +0.2%, Dow Jones -1.1%, plus Bitcoin +0.8% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 8: Energy led +1.8%, Materials lagged -2.6%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 9: Unemployment tops 4.2% 57%, Bitcoin tops $68k this month 42%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-09/story.png",
+  "story_poll": "Fed rate cut in 2026?",
+  "generated_at": "2026-07-09T11:10:13+00:00",
+  "reminders": [
+    "\ud83c\udf93 Explainer day (Tue/Thu/Sat) \u2014 dispatch Actions \u2192 \u201cThe Print \u2014 explainer reel\u201d. Next up: \u201cHow prediction-market odds are priced\u201d."
+  ]
+}
