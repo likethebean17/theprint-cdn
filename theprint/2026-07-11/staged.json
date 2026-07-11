@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-11",
+  "caption": "\ud83d\udcca Bitcoin odds: 55% \u2014 +3 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 20 \u2014 Market recap, Fri, Jul 10\n\nS&P 500: 7,575.39 (+0.42%)\nNasdaq: 26,281.61 (+0.29%)\nDow Jones: 52,637.01 (+0.29%)\nSectors: Materials led (+1.25%), Health Care lagged (-0.82%).\n\nBitcoin +0.00% \u00b7 Ethereum +0.04%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 55% (+3 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udcc5 In market history \u2014 Oil's Record High, July 11, 2008.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "history",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 10: S&P 500 +0.4%, Nasdaq +0.3%, Dow Jones +0.3%, plus Bitcoin +0.0% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 10: Materials led +1.2%, Health Care lagged -0.8%, across 11 S&P 500 sectors.",
+    "history": "The Print \u2014 This Day in History: Oil's Record High, July 11, 2008 (Crude oil ~$147).",
+    "odds": "The Print market-implied odds from Kalshi, Jul 11: Unemployment tops 4.2% 56%, Bitcoin tops $68k this month 55%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/03-history.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/04-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-11/story.png",
+  "story_poll": "US recession called in 2026?",
+  "generated_at": "2026-07-11T11:09:49+00:00",
+  "reminders": [
+    "\ud83c\udf93 Explainer day (Tue/Thu/Sat) \u2014 dispatch Actions \u2192 \u201cThe Print \u2014 explainer reel\u201d. Next up: \u201cWhy sector rotation matters\u201d."
+  ]
+}
