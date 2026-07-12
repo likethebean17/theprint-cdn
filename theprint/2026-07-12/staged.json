@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-12",
+  "caption": "\ud83d\udcca Bitcoin odds: 48% \u2014 -7 pts vs. yesterday.\n\n\ud83e\ude99 The Print \u00b7 No. 22 \u2014 Weekend Edition, Sun, Jul 12\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin +0.09% \u00b7 Ethereum +0.60%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 56% \u2014 Unemployment tops 4.2%\n\u2022 48% (-7 vs. yest.) \u2014 Bitcoin tops $68k this month\n\u2022 22% (-2 vs. yest.) \u2014 Any Fed rate cut in 2026\n\nLast stock close (Fri, Jul 10): S&P 500 +0.42%, Nasdaq +0.29%, Dow Jones +0.29%. Back Monday.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 Weekend Edition, Jul 12. Bitcoin $63,860 (+0.1%), Ethereum +0.6%, plus market-implied odds.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 12: Unemployment tops 4.2% 56%, Bitcoin tops $68k this month 48%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-12/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-12/02-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-12/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-12/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-12/story.png",
+  "story_poll": "Unemployment tops 4.2%?",
+  "generated_at": "2026-07-12T11:10:06+00:00"
+}
