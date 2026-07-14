@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-14",
+  "caption": "\u26a1 June CPI day \u2014 markets pricing 46% odds of cpi tops 4.9% (yoy).\n\n\ud83d\udcca The Print \u00b7 No. 23 \u2014 Market recap, Mon, Jul 13\n\nS&P 500: 7,515.34 (-0.79%)\nNasdaq: 25,873.18 (-1.55%)\nDow Jones: 52,498.64 (-0.26%)\nSectors: Energy led (+3.01%), Technology lagged (-2.42%).\n\nBitcoin +2.60% \u00b7 Ethereum +5.09%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: any fed rate cut in 2026 now 22% (-1 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to whoever in your group chat won't stop talking about inflation.\n\n\ud83e\udd14 Is this a policy win, or do we have a structural inflation problem?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 13: S&P 500 -0.8%, Nasdaq -1.6%, Dow Jones -0.3%, plus Bitcoin +2.6% and sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 14: Unemployment tops 4.2% 56%, CPI tops 4.9% (YoY) 46%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14-event/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14-event/02-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14-event/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14-event/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14-event/story.png",
+  "story_poll": "Core CPI tops 3% (YoY)?",
+  "generated_at": "2026-07-14T13:02:58+00:00",
+  "event_label": "\u26a1 Event special \u2014 June CPI"
+}
