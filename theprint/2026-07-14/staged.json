@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-14",
+  "caption": "\ud83d\uddd3\ufe0f June CPI at 8:30am ET \u2014 The Odds Board is pricing 30% odds of cpi tops 3.8% (yoy).\n\n\u26a1 Volatility spiked \u2014 the VIX jumped +14% today.\n\n\ud83d\udcca The Print \u00b7 No. 23 \u2014 Market recap, Mon, Jul 13\n\nS&P 500: 7,515.34 (-0.79%)\nNasdaq: 25,873.18 (-1.55%)\nDow Jones: 52,498.64 (-0.26%)\nSectors: Energy led (+3.01%), Technology lagged (-2.42%).\n\nBitcoin +0.65% \u00b7 Ethereum +1.14%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $65k this month now 60% (-2 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to the friend who panics every time the VIX spikes.\n\n\ud83e\udd14 A scary spike \u2014 justified concern or noise?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 13: S&P 500 -0.8%, Nasdaq -1.6%, Dow Jones -0.3%, plus Bitcoin +0.7% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 13: Energy led +3.0%, Technology lagged -2.4%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 14: Core CPI tops 2.7% (YoY) 66%, Bitcoin tops $65k this month 60%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-14/story.png",
+  "story_poll": "Core CPI tops 2.7% (YoY)?",
+  "generated_at": "2026-07-14T11:09:22+00:00",
+  "reminders": [
+    "\u26a1 June CPI at 8:30am ET today \u2014 ~20\u201330 min after the release, dispatch Actions \u2192 \u201cThe Print \u2014 event special\u201d for the second post.",
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cWhy sector rotation matters\u201d."
+  ]
+}
