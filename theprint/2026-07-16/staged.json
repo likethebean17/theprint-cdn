@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-16",
+  "caption": "\ud83d\udcca Markets now price Bitcoin odds at 40% \u2014 down 16 pts from yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 25 \u2014 Market recap, Wed, Jul 15\n\nS&P 500: 7,572.40 (+0.38%)\nNasdaq: 26,269.23 (+0.62%)\nDow Jones: 52,658.64 (+0.29%)\nSectors: Communication led (+1.73%), Technology lagged (-1.11%).\n\nBitcoin -0.97% \u00b7 Ethereum -1.67%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 40% (-16 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\n\ud83e\udd14 Is the move real, or already priced in?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 15: S&P 500 +0.4%, Nasdaq +0.6%, Dow Jones +0.3%, plus Bitcoin -1.0% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 15: Communication led +1.7%, Technology lagged -1.1%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 16: Core CPI tops 2.3% (YoY) 84%, Unemployment tops 4.1% 83%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-16/story.png",
+  "story_poll": "CPI tops 3.4% (YoY)?",
+  "generated_at": "2026-07-16T11:10:07+00:00",
+  "reminders": [
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cWhat \"the S&P 500\" actually contains\u201d."
+  ]
+}
