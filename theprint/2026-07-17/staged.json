@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-17",
+  "caption": "\ud83d\udcc8 The S&P's strongest corner today: Consumer Staples, +2.8%.\n\n\ud83d\udcca The Print \u00b7 No. 26 \u2014 Market recap, Thu, Jul 16\n\nS&P 500: 7,533.77 (-0.51%)\nNasdaq: 25,881.95 (-1.47%)\nDow Jones: 52,552.97 (-0.20%)\nSectors: Consumer Staples led (+2.80%), Technology lagged (-2.24%).\n\nBitcoin -1.16% \u00b7 Ethereum -1.61%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 22% (-18 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udcc5 The week: S&P 500 -0.1% over the last 5 sessions.\n\n\ud83d\udcc5 In market history \u2014 The 1998 Peak, July 17, 1998.\n\n\ud83d\udce9 Send this to the friend who keeps swearing they'll buy the next dip.\n\n\ud83e\udd14 The start of a new leg up, or a trap?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "week_review",
+    "history",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 16: S&P 500 -0.5%, Nasdaq -1.5%, Dow Jones -0.2%, plus Bitcoin -1.2% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 16: Consumer Staples led +2.8%, Technology lagged -2.2%, across 11 S&P 500 sectors.",
+    "week_review": "The Print Week in Review, weekly changes for Jul 16: S&P 500 -0.1% this week, Nasdaq -1.2% this week, Dow Jones +0.1% this week, Energy led sectors this week.",
+    "history": "The Print \u2014 This Day in History: The 1998 Peak, July 17, 1998.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 17: Unemployment tops 4.1% 84%, Core CPI tops 2.1% (YoY) 80%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/03-week_review.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/04-history.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/05-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-17/story.png",
+  "story_poll": "Unemployment tops 4.1%?",
+  "generated_at": "2026-07-17T11:10:02+00:00"
+}
