@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-18",
+  "caption": "\ud83d\udcca Bitcoin odds: 36% \u2014 +14 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 27 \u2014 Market recap, Fri, Jul 17\n\nS&P 500: 7,457.69 (-1.01%)\nNasdaq: 25,520.24 (-1.40%)\nDow Jones: 52,146.42 (-0.77%)\nSectors: Energy led (+1.16%), Communication lagged (-1.78%).\n\nBitcoin +0.12% \u00b7 Ethereum +0.19%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 36% (+14 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\n\ud83e\udd14 Does $64k hold this month?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 17: S&P 500 -1.0%, Nasdaq -1.4%, Dow Jones -0.8%, plus Bitcoin +0.1% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 17: Energy led +1.2%, Communication lagged -1.8%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 18: Core CPI tops 2.1% (YoY) 80%, CPI tops 3.4% (YoY) 37%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-18/story.png",
+  "story_poll": "Bitcoin tops $68k this month?",
+  "generated_at": "2026-07-18T11:10:05+00:00",
+  "reminders": [
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cBasis points, explained\u201d."
+  ]
+}
