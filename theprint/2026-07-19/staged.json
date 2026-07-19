@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-19",
+  "caption": "\ud83d\udcca Markets now price Bitcoin odds at 46% \u2014 up 10 pts from yesterday.\n\n\ud83e\ude99 The Print \u00b7 No. 29 \u2014 Weekend Edition, Sun, Jul 19\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin -0.38% \u00b7 Ethereum +0.69%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 46% (+10 vs. yest.) \u2014 Bitcoin tops $68k this month\n\u2022 25% \u2014 Core CPI tops 2.8% (YoY)\n\u2022 19% (-2 vs. yest.) \u2014 Any Fed rate cut in 2026\n\nLast stock close (Fri, Jul 17): S&P 500 -1.01%, Nasdaq -1.40%, Dow Jones -0.77%. Back Monday.\n\n\ud83d\udcc5 In market history \u2014 Dow Tops 14,000, July 19, 2007.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\n\ud83e\udd14 Is the move real, or already priced in?\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "history",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 Weekend Edition, Jul 19. Bitcoin $64,553 (-0.4%), Ethereum +0.7%, plus market-implied odds.",
+    "history": "The Print \u2014 This Day in History: Dow Tops 14,000, July 19, 2007.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 19: Bitcoin tops $68k this month 46%, Core CPI tops 2.8% (YoY) 25%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/02-history.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-19/story.png",
+  "story_poll": "Core CPI tops 2.8% (YoY)?",
+  "generated_at": "2026-07-19T11:09:59+00:00"
+}
