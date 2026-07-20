@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-20",
+  "caption": "\ud83d\udcc9 With stocks shut, Bitcoin slipped -0.5%.\n\n\ud83e\ude99 The Print \u00b7 No. 30 \u2014 The Week Ahead, Mon, Jul 20\n\nMarkets open today \u2014 here's the board before the bell:\n\nBitcoin -0.51% \u00b7 Ethereum +0.16%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 82% \u2014 Unemployment tops 4.1%\n\u2022 40% (-6 vs. yest.) \u2014 Bitcoin tops $68k this month\n\u2022 25% \u2014 Core CPI tops 2.8% (YoY)\n\nLast close (Fri, Jul 17): S&P 500 -1.01%, Nasdaq -1.40%, Dow Jones -0.77%. Markets open 9:30am ET.\n\n\ud83d\uddd3\ufe0f Quiet week ahead \u2014 nothing on the econ calendar the next 7 days.\n\n\ud83d\udce9 Send this to someone who wants the market in 30 seconds, not 30 tabs.\n\n\ud83e\udd14 Just noise, or a turning point?\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "week_ahead",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 The Week Ahead, Jul 20. Markets open today. Bitcoin $64,360 (-0.5%), Ethereum +0.2%, plus market-implied odds.",
+    "week_ahead": "The Print Week Ahead preview, Jul 20: a quiet week, nothing on the economic calendar, plus prediction-market odds on Bitcoin tops $68k this month.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 20: Unemployment tops 4.1% 82%, Bitcoin tops $68k this month 40%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/02-week_ahead.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/cover.png",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-20/story.png",
+  "story_poll": "Fed rate cut in 2026?",
+  "generated_at": "2026-07-20T11:11:01+00:00"
+}
