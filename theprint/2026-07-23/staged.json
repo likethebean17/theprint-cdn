@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-23",
+  "caption": "\ud83d\udcca Fed rate-cut odds: 20% \u2014 +2 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 32 \u2014 Market recap, Wed, Jul 22\n\nS&P 500: 7,498.96 (-0.14%)\nNasdaq: 25,690.90 (-0.57%)\nDow Jones: 52,218.58 (-0.01%)\nSectors: Utilities led (+2.25%), Communication lagged (-0.75%).\n\nBitcoin -0.71% \u00b7 Ethereum -0.39%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 60% (-6 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to the friend who's sure the Fed is about to cut.\n\n\ud83e\udd14 If the Fed cuts this fall, is that already baked into today's levels?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 22: S&P 500 -0.1%, Nasdaq -0.6%, Dow Jones -0.0%, plus Bitcoin -0.7% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 22: Utilities led +2.2%, Communication lagged -0.8%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 23: Bitcoin tops $68k this month 60%, Unemployment tops 4.2% 57%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/cover.png",
+  "generated_at": "2026-07-23T11:10:08+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-23/story.png",
+  "story_poll": "Your read \u2014 Bitcoin tops $68k this month?",
+  "reminders": [
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cWhat a yield-curve inversion signals\u201d."
+  ]
+}
