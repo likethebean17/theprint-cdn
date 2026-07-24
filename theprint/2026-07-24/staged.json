@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-24",
+  "caption": "\u26a1 The VIX ripped +12% higher today \u2014 volatility is back.\n\n\ud83d\udcca The Print \u00b7 No. 33 \u2014 Market recap, Thu, Jul 23\n\nS&P 500: 7,408.30 (-1.21%)\nNasdaq: 25,137.69 (-2.15%)\nDow Jones: 51,711.65 (-0.97%)\nSectors: Industrials led (+1.73%), Consumer Disc. lagged (-4.61%).\n\nBitcoin -0.20% \u00b7 Ethereum +0.09%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 36% (-24 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udcc5 The week: S&P 500 -1.7% over the last 5 sessions.\n\n\ud83d\udce9 Send this to the friend who panics every time the VIX spikes.\n\n\ud83e\udd14 A scary spike \u2014 justified concern or noise?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "week_review",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 23: S&P 500 -1.2%, Nasdaq -2.1%, Dow Jones -1.0%, plus Bitcoin -0.2% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 23: Industrials led +1.7%, Consumer Disc. lagged -4.6%, across 11 S&P 500 sectors.",
+    "week_review": "The Print Week in Review, weekly changes for Jul 23: S&P 500 -1.7% this week, Nasdaq -2.9% this week, Dow Jones -1.6% this week, Energy led sectors this week.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 24: Unemployment tops 4.1% 84%, Core CPI tops 2.3% (YoY) 82%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/03-week_review.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/04-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/cover.png",
+  "generated_at": "2026-07-24T11:11:15+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-24/story.png",
+  "story_poll": "US recession called in 2026 \u2014 likely?"
+}
