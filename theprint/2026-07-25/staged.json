@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-25",
+  "caption": "\ud83d\udcca Recession odds: 10% \u2014 -2 pts vs. yesterday.\n\n\ud83d\udcca The Print \u00b7 No. 34 \u2014 Market recap, Fri, Jul 24\n\nS&P 500: 7,411.98 (+0.05%)\nNasdaq: 24,975.82 (-0.64%)\nDow Jones: 51,947.25 (+0.46%)\nSectors: Real Estate led (+2.22%), Technology lagged (-1.44%).\n\nBitcoin -0.17% \u00b7 Ethereum -0.16%\n\n\ud83c\udfaf The Odds Board \u2014 biggest move: bitcoin tops $68k this month now 18% (-18 vs. yesterday) \u2014 Kalshi.\n\n\ud83d\udce9 Send this to the person who's been calling a recession since 2023.\n\n\ud83e\udd14 Is a downturn inevitable, or can policy avert it?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 24: S&P 500 +0.1%, Nasdaq -0.6%, Dow Jones +0.5%, plus Bitcoin -0.2% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 24: Real Estate led +2.2%, Technology lagged -1.4%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 25: CPI tops 3.4% (YoY) 26%, Bitcoin tops $68k this month 18%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/cover.png",
+  "generated_at": "2026-07-25T11:10:05+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-25/story.png",
+  "story_poll": "Your read \u2014 Fed rate cut in 2026?",
+  "reminders": [
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cCPI vs. core CPI\u201d."
+  ]
+}
