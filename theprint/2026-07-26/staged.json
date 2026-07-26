@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-26",
+  "caption": "\ud83d\udcca Markets now price Bitcoin odds at 22% \u2014 up 4 pts from yesterday.\n\n\ud83e\ude99 The Print \u00b7 No. 36 \u2014 Weekend Edition, Sun, Jul 26\n\nStocks are closed \u2014 here's what's still moving:\n\nBitcoin +0.21% \u00b7 Ethereum +0.57%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 82% \u2014 Core CPI tops 2.3% (YoY)\n\u2022 22% (+4 vs. yest.) \u2014 Bitcoin tops $68k this month\n\u2022 19% (+1 vs. yest.) \u2014 Any Fed rate cut in 2026\n\nLast stock close (Fri, Jul 24): S&P 500 +0.05%, Nasdaq -0.64%, Dow Jones +0.46%. Back Monday.\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\n\ud83e\udd14 Is the move real, or already priced in?\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 Weekend Edition, Jul 26. Bitcoin $64,450 (+0.2%), Ethereum +0.6%, plus market-implied odds.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 26: Core CPI tops 2.3% (YoY) 82%, Bitcoin tops $68k this month 22%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-26/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-26/02-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-26/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-26/cover.png",
+  "generated_at": "2026-07-26T11:09:48+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-26/story.png",
+  "story_poll": "Core CPI tops 2.3% (YoY)?"
+}
