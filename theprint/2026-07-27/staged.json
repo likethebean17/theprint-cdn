@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-27",
+  "caption": "\ud83d\udcca Bitcoin odds have covered a 54-pt range this week \u2014 38% now.\n\n\ud83e\ude99 The Print \u00b7 No. 37 \u2014 The Week Ahead, Mon, Jul 27\n\nMarkets open today \u2014 here's the board before the bell:\n\nBitcoin -0.15% \u00b7 Ethereum +0.53%\n\n\ud83c\udfaf The Odds Board \u2014 what markets are pricing:\n\u2022 42% \u2014 Core CPI tops 2.4% (YoY)\n\u2022 38% (+16 vs. yest.) \u2014 Bitcoin tops $68k this month\n\u2022 19% \u2014 Any Fed rate cut in 2026\n\nLast close (Fri, Jul 24): S&P 500 +0.05%, Nasdaq -0.64%, Dow Jones +0.46%. Markets open 9:30am ET.\n\n\ud83d\uddd3\ufe0f On the calendar this week \u2014 Fed decision (Wed, Jul 29).\n\n\ud83d\udce9 Send this to someone who'd want the 30-second version of today's market.\n\n\ud83e\udd14 Which way from here \u2014 your read?\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "week_ahead",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print \u2014 The Week Ahead, Jul 27. Markets open today. Bitcoin $65,245 (-0.1%), Ethereum +0.5%, plus market-implied odds.",
+    "week_ahead": "The Print Week Ahead preview, Jul 27: Fed decision on Jul 29, plus prediction-market odds on Bitcoin tops $68k this month.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 27: Core CPI tops 2.4% (YoY) 42%, Bitcoin tops $68k this month 38%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/02-week_ahead.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/cover.png",
+  "generated_at": "2026-07-27T11:12:15+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-27/story.png",
+  "story_poll": "Unemployment tops 4.3%?"
+}
