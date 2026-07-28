@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-28",
+  "caption": "\ud83d\udcc9 The S&P's softest corner today: Energy, -2.1%.\n\n\ud83d\udcca The Print \u00b7 No. 37 \u00b7 Market recap, Mon, Jul 27\n\nS&P 500: 7,413.18 (+0.02%)\nNasdaq: 24,932.08 (-0.18%)\nDow Jones: 52,210.08 (+0.51%)\nSectors: Consumer Staples led (+1.46%), Energy lagged (-2.11%).\n\nBitcoin -0.64% \u00b7 Ethereum -0.97%\n\n\ud83c\udfaf The Odds Board biggest move: bitcoin tops $68k this month now 6% (-32 vs. yesterday), via Kalshi.\n\n\ud83d\udce9 Forward this to someone who only checks their portfolio on green days.\n\n\ud83e\udd14 Washout day, or more downside left?\n\nNot financial advice. For educational purposes only.\n\n#stockmarket #investing #sp500 #nasdaq #crypto",
+  "cards": [
+    "recap",
+    "heatmap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print U.S. stock market recap, Jul 27: S&P 500 +0.0%, Nasdaq -0.2%, Dow Jones +0.5%, plus Bitcoin -0.6% and sectors.",
+    "heatmap": "The Print S&P 500 sector heatmap, Jul 27: Consumer Staples led +1.5%, Energy lagged -2.1%, across 11 S&P 500 sectors.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 28: Any Fed rate cut in 2026 18%, US recession called in 2026 10%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/02-heatmap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/03-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/cover.png",
+  "generated_at": "2026-07-28T11:11:49+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-28/story.png",
+  "story_poll": "Bitcoin tops $68k this month: likely?",
+  "reminders": [
+    "\ud83c\udf93 Explainer goes out automatically today \u2014 next up: \u201cWhat moves Bitcoin when stocks close\u201d."
+  ]
+}
