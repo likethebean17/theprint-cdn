@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-29",
+  "caption": "\ud83d\uddd3\ufe0f Fed decision at 2:00pm ET. The Odds Board is pricing 11% odds of any Fed rate cut in 2026.\n\n\ud83d\udcca Fed rate-cut odds hit 11%, their lowest in a month (-7 pts overnight).\n\n\ud83e\ude99 The Print \u00b7 No. 39 \u00b7 Markets Update, Wed, Jul 29\n\nMarkets open today. Here's the board before the bell:\n\nBitcoin +0.87% \u00b7 Ethereum -0.33%\n\n\ud83c\udfaf What markets are pricing (The Odds Board):\n\u2022 12% (+6 vs. yest.): Bitcoin tops $68k this month\n\u2022 11% (-7 vs. yest.): Any Fed rate cut in 2026\n\u2022 10%: US recession called in 2026\n\nLast close (Mon, Jul 27): S&P 500 +0.07%, Nasdaq -0.82%, Dow Jones +0.96%. Markets open 9:30am ET.\n\n\ud83d\udce9 Send this to the friend who's sure the Fed is about to cut.\n\n\ud83e\udd14 If the Fed cuts this fall, is that already baked into today's levels?\n\nNot financial advice. For educational purposes only.\n\n#crypto #bitcoin #investing #markets #economy",
+  "cards": [
+    "recap",
+    "odds"
+  ],
+  "alt": {
+    "recap": "The Print, Markets Update, Jul 29. Markets open today. Bitcoin $64,428 (+0.9%), Ethereum -0.3%, plus market-implied odds.",
+    "odds": "The Print market-implied odds from Kalshi, Jul 29: Bitcoin tops $68k this month 12%, Any Fed rate cut in 2026 11%, and more."
+  },
+  "image_urls": [
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-29/01-recap.png",
+    "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-29/02-odds.png"
+  ],
+  "reel_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-29/reel.mp4",
+  "cover_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-29/cover.png",
+  "generated_at": "2026-07-29T11:12:08+00:00",
+  "story_url": "https://raw.githubusercontent.com/likethebean17/theprint-cdn/main/theprint/2026-07-29/story.png",
+  "story_poll": "US recession called in 2026?",
+  "reminders": [
+    "\u26a1 Fed decision at 2:00pm ET today \u2014 ~20\u201330 min after the release, dispatch Actions \u2192 \u201cThe Print \u2014 event special\u201d for the second post."
+  ]
+}
